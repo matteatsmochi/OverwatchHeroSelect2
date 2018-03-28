@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="OBSHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="OBSPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4444</Value>
+    </Setting>
+    <Setting Name="OBSPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="TwitchUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TwitchOAuth" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TwitchChannel" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OBSSceneVote1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[OW] Vote1</Value>
+    </Setting>
+    <Setting Name="OBSSceneVote2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[OW] Vote2</Value>
+    </Setting>
+    <Setting Name="OBSSceneVote3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[OW] Vote3</Value>
+    </Setting>
+    <Setting Name="OBSSourceBar1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vote Bar1</Value>
+    </Setting>
+    <Setting Name="OBSSourceBar2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vote Bar2</Value>
+    </Setting>
+    <Setting Name="OBSSourceBar3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vote Bar3</Value>
+    </Setting>
+    <Setting Name="OBSSceneOverwatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[Nest] Overwatch Vote</Value>
+    </Setting>
+    <Setting Name="LookFor" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="chkHero01" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero02" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero03" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero04" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero05" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero06" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero07" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero08" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero09" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="chkHero10" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero11" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero12" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero13" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero14" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero15" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero16" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero17" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero18" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero19" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero20" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero21" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero22" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero23" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero24" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero25" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero26" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chkHero27" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Bar1Y" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">251</Value>
+    </Setting>
+    <Setting Name="Bar2Y" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">385</Value>
+    </Setting>
+    <Setting Name="Bar3Y" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">518</Value>
+    </Setting>
+    <Setting Name="ReticleX" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">960</Value>
+    </Setting>
+    <Setting Name="ReticleY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">540</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
